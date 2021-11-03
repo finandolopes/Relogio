@@ -1,0 +1,14 @@
+{
+  "name": "myClock",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/finandolopes/Relogio.git",
+  "author": "Fernando Lopes <fnando0506@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "live-server ."
+  },
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
