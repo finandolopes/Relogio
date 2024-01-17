@@ -22,7 +22,7 @@
 
 
 <p align="center">
-  <img src="screenshot.png" title="screenshot" alt="screenshot do jogo">
+  <img src="screenshot.png" title="screenshot" alt="screenshot do Relógio">
 </p>
 
 
